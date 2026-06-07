@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# ChromaDB
+vectorstore/chroma_db/
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Streamlit cache
+.streamlit/
+
+.ipynb_checkpoints/
+Problem_3_HR_AiAssistance/vectorstore/
