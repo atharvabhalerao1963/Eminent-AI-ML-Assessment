@@ -313,6 +313,4 @@ pytest
 
 **Atharva Bhalerao**
 
-B.Tech Information Technology
 
-MGM University
