@@ -1,5 +1,22 @@
 # Eminent AI/ML Assessment Solutions
 
+## 🎥 Project Demonstration Video
+
+Watch the complete project walkthrough and explanation here:
+
+**YouTube Demo:** https://www.youtube.com/watch?v=-tXaiNmztEc
+
+This video covers:
+
+* Problem 1: Predictive Maintenance ML Pipeline
+* Problem 2: Legacy Code Refactoring & FastAPI Service
+* Problem 3: Enterprise HR Policy Assistant (RAG System)
+* Architecture Explanations
+* Technical Decisions & Trade-offs
+* Project Demonstration and Execution
+
+---
+
 ## Overview
 
 This repository contains solutions for the **Eminent AI/ML Practical Assessment**, covering Machine Learning, Production-Grade Python Engineering, and Advanced Retrieval-Augmented Generation (RAG) Systems.
@@ -308,9 +325,13 @@ pytest
 | Docker Containerization       | ✅      |
 | Production Debugging Analysis | ✅      |
 
+---
 
 # Author
 
 **Atharva Bhalerao**
 
+* GitHub: https://github.com/atharvabhalerao1963
+* LinkedIn: https://www.linkedin.com/in/atharva-bhalerao-b62787298/
 
+---
