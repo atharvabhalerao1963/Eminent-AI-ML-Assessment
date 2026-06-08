@@ -1,3 +1,4 @@
+
 # Enterprise HR Policy Assistant
 
 ## Overview
@@ -655,5 +656,9 @@ Response:
 ## Author
 
 Atharva Bhalerao
+
+
+<img width="1470" height="956" alt="Screenshot 2026-06-08 at 2 38 04 PM" src="https://github.com/user-attachments/assets/aed564c8-0160-48de-8c31-ad41508a2440" />
+<img width="1470" height="956" alt="Screenshot 2026-06-08 at 2 37 30 PM" src="https://github.com/user-attachments/assets/05d50f9f-000b-48ca-9f95-df5dfe4bc435" />
 
 
