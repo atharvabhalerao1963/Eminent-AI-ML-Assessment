@@ -656,6 +656,4 @@ Response:
 
 Atharva Bhalerao
 
-Final Year B.Tech (Information Technology)
 
-MGM University
